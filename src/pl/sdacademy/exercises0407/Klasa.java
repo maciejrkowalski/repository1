@@ -8,12 +8,14 @@ public class Klasa {
         this.a = a;
     }
 
-    public int getA() {
+    public int ponierzA() {
         return a;
     }
 
     public void setA(int a) {
         this.a = a;
     }
+
+
 }
 
